@@ -1,0 +1,19 @@
+# Editor and operating-system artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local environment and secret-bearing files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local work and generated artifacts
+.tmp/
+tmp/
+logs/
