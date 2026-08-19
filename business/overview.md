@@ -1,73 +1,137 @@
 # Business Overview — RunsOnItsOwn.ai
-# Last updated: 2026-07-18
-# Purpose: standing context file for any AI agent working on this business. Read this first. This is the blueprint of the business model.
+# Last updated: 2026-08-18
+# Purpose: standing context file for any AI agent working on this business. Read this first.
+# Supersedes the 2026-07-18 version in full.
 
 ---
 
 ## WHAT THIS BUSINESS IS
 
-An AI consulting and automation services business for small business owners. We help owners reclaim time by prescribing and implementing AI and software tools — a low-ticket self-serve assessment product on the front end, laddering up to done-for-you implementation, custom automation work, and recurring consulting.
+An AI consulting and automation services business for small business owners. We help owners reclaim time by prescribing and installing AI and software tools. A free quiz on the front end, laddering up to a paid report, done-for-you installation, custom automation work, and a recurring concierge retainer.
 
-The model is adapted from Corey Ganim's AI assessment business (paid assessment → tool prescriptions → implementation upsells → recurring consulting), with one structural difference: Corey acquires clients through warm, in-person networking; we acquire customers through cold internet traffic, so the front door is a low-ticket paid product rather than a free consultation.
+The model is adapted from Corey Ganim's AI assessment business (paid assessment → tool prescriptions → implementation upsells → recurring consulting), with one structural difference: Corey acquired clients through warm, in-person networking; we acquire customers through cold internet traffic, so the front door is a free measurement rather than a consultation.
+
+**Positioning note (2026-08-18):** Corey's public site, returnmytime.com, now markets knowledge bases and managed AI agents sold off a discovery call, screening for companies up to $50M in revenue, with a pre-booking questionnaire that treats "mainly looking for AI education, prompts, or software recommendations" as a low-readiness answer. **He has not abandoned the assessment model** — per TJ's direct knowledge he still runs it; the website simply no longer reflects it, and those clients come through warm and audience channels rather than the site. The practical read: his public marketing does not compete for cold traffic in our segment, and owners who find him and don't fit his site's offer have nowhere obvious to land.
 
 ## WHO WE SERVE
 
 Small business owners: 2-20 employees, $500K-$5M/year revenue, working 40-60 hrs/week, too deep in the weeds to learn AI, using nothing beyond occasionally prompting ChatGPT. Top pains: email overload, repetitive admin, meetings and follow-up, writing tasks, answering the same customer questions repeatedly, processes locked in the owner's head.
 
-They buy time back (5-10 hrs/week), clear dollar ROI, and stupid-simple deliverables. They do not do homework — products deliver finished results, not assignments. Every recommendation pulls at least one of three levers: make money, save time, raise quality. We are not niching to coaches.
+They buy time back, a clear dollar number, and stupid-simple deliverables. They do not do homework. Every recommendation pulls at least one of three levers: make money, save time, raise quality. We are not niching to coaches.
+
+**The avatar is the comprehension floor, not the market ceiling.** The tech-novice owner is the test of whether copy is plain enough. The actual market is industry-agnostic.
+
+**The ChatGPT gap is the specific recognition to name.** The avatar opened ChatGPT, asked a question, got a decent answer, and thought "how does this help my business?" He uses it as a sophisticated search box. Nothing about a chat window shows him the distance between asking questions and having work done while he is somewhere else. That distance is the thing he cannot see, and naming it is what makes the copy land.
 
 ## HOW WE GET CLIENTS
 
-**Cold FB/IG traffic → the AI Time Leak Quiz Funnel.** Mobile-first ads run assumptive framing (the leak exists; the quiz measures it) into a free 12-question quiz (2-3 minutes, email gate before results). The quiz instantly shows an owner how many hours and dollars per week their business is leaking to tasks AI could already handle. The quiz is the VSL — the measurement itself is the persuasion. The full funnel spec lives in ai-time-leak-funnel-blueprint (current version supersedes all others).
+**Cold FB/IG traffic → the AI Time Leak Quiz.** Mobile-first ads run assumptive framing (the leak exists; the quiz measures it) into a free 12-question quiz at runsonitsown.ai/save-time. The quiz instantly shows an owner how many hours and dollars a week their business is leaking to work AI could already handle. The quiz is the VSL. The measurement itself is the persuasion.
+
+Full funnel spec: ai-time-leak-funnel-blueprint v1.2, with the pricing correction noted below.
 
 ## WHAT WE SELL — THE LADDER
 
 Each rung is the one-level-bigger version of the last, and no rung promises the outcome of the rung above. The machine does the work at every rung below the white-glove tier; live human minutes only appear at prices that pay for themselves or sell the next rung. The front end self-liquidates on the $27 report + order bump + $149 session; everything from the white-glove up is margin.
 
-**1. Free Quiz + Instant Result** — "You're leaking approximately X-Y hours/week ≈ $Z/month at your numbers." Free, on screen, never blocked.
+**1. Free Quiz + Instant Result** — "Your business is leaking approximately X-Y hours a week. That's about $Z a month at your own numbers." Free, on screen, never blocked or delayed.
 
-**2. $27 Personalized Report** — unlocked on the results page. Their number + math shown, leak breakdown by category, quick-wins vs. big-projects matrix, fixes ranked (dreaded category always #1), 1-2 vetted catalog tools per category matched to business size, 4-day quick-start plan (≤10 min/day), ROI table. Generated instantly by the automated AI pipeline; on screen + PDF within minutes. Guarantee: at least 5 reclaimable hours/week identified or full refund.
+**2. $27 Personalized Report** — their number with the math shown, leak breakdown by category, quick-wins vs. big-projects matrix, fixes ranked (dreaded category always #1), vetted catalog tools matched to business size, quick-start plan, ROI table. Generated by the automated pipeline; on screen plus PDF within minutes.
+**Guarantee: at least 3 reclaimable hours a week identified, or full refund.**
 
-**3. Order Bump ($9-17)** — Owner's Prompt Pack: 25 copy-paste prompts for the 5 tasks owners hate most. Pads AOV.
+**3. Order Bump ($9-17)** — Owner's Prompt Pack: 25 copy-paste prompts for the tasks owners hate most. Pads AOV.
 
-**4. OTO1: $149 Live Setup Session** — their #1 fix, installed live in ~20 minutes via screen-share. They share their screen and type their own passwords; we drive every click. Frame is control, never labor: outcome first, security second. Booking flow immediately after purchase with tight reminders. Weekly slots capped; when full, the price rises.
+**4. Upsell 1: $149 Live Setup Session** — their #1 fix, installed live in about 20 minutes via screen share. They share their screen and type their own passwords; **we tell them what to click.** Frame is control, never labor: outcome first, security second. Booking immediately after purchase with tight reminders. Weekly slots capped; when full, the price rises.
 
-**5. OTO2: White-Glove Install — $499 launch price ($699 regular)** — every tool in their report installed the same live-driven way, plus one 45-minute walkthrough and Q&A call. Report tools only; builds priced separately. Sold three ways: (a) at minute 22 of OTO1 right after their first tool starts working, with the $149 credited toward it; (b) report next-steps page + email sequences referencing their diagnosis number; (c) retargeting using the same face from the funnel videos. The 45-minute walkthrough is the discovery engine — the big-projects quadrant surfaces and "can you build that?" gets asked.
+**5. Upsell 2: White-Glove Install — $499 launch price ($699 regular)** — every tool in their report installed the same live-driven way, plus one 45-minute walkthrough and Q&A call. Report tools only; builds priced separately. **If they already bought Upsell 1, the $149 is credited and the remaining charge is $350.** Sold three ways: (a) at minute 22 of Upsell 1, right after their first tool starts working; (b) report next-steps page and email sequences referencing their diagnosis number; (c) retargeting using the same face from the funnel videos. The walkthrough call is the discovery engine — the big-projects quadrant surfaces and "can you build that?" gets asked.
 
-**6. The Expansion Menu** (behind the white-glove install — the walkthrough call is where these get scoped and sold):
-
-- **Process Redesign ($3-5K)** — almost every assessment uncovers at least one broken workflow. Map the current state, design the future state, remove the waste.
-- **Automation Build ($1-3K)** — Zapier or Make.com workflows connecting their existing tools. Build it, train them, hand it off.
-- **Knowledge Systems ($3K+)** — e.g., 1,000+ hours of training videos nobody watches becomes a custom GPT the team can query instead of interrupting the owner. Saves hours weekly.
+**6. The Expansion Menu** (scoped and sold on the white-glove walkthrough call):
+- **Process Redesign ($3-5K)** — map current state, design future state, remove the waste.
+- **Automation Build ($1-3K)** — workflows connecting their existing tools. Build it, train them, hand it off.
+- **Knowledge Systems ($3K+)** — training material nobody watches becomes something the team can query instead of interrupting the owner.
 - **Custom Workflows ($3-5K)** — for clients already using AI tools: custom prompts and templates that turn manual processes into one-click operations.
 
-**7. Concierge Retainer ($1,200-2K/mo)** — recurring AI consulting for clients who want ongoing prescription, implementation, and optimization.
+**7. Concierge Retainer ($1,200-2K/mo)** — month to month, no minimum term. Ongoing prescription, implementation, and optimization. Framed as **growth and complexity**, never as maintenance or drift — drift framing undermines the install tier below it.
+
+**One-off help is not part of the offer.** It happens verbally if a past client asks directly. It is never mentioned or implied on any page, because raising an objection we answer with "no" creates friction for nothing.
 
 Non-buyers at every stage get email sequences referencing their diagnosis number. The credit trick (previous purchase counts toward the next rung) is available at every jump.
 
+## THE WEBSITE (built, live)
+
+**runsonitsown.ai** — Next.js App Router on Cloudflare Workers via the `@opennextjs/cloudflare` adapter. GitHub with auto-deploy. No database; GHL is the CRM.
+
+Ten routes: `/`, `/find-your-leaks`, `/we-fix-it-for-you`, `/keep-it-running`, `/about`, `/contact`, `/privacy`, `/terms`, `/disclaimer`, `/save-time`.
+
+One job and one CTA per page. Every quiz CTA resolves to `/save-time`. `/keep-it-running` is the only page whose CTA is book-a-call.
+
+**Locked site rules:**
+- **No prices anywhere on the site.** Pricing lives in the funnel. Pages state the principle instead: small flat prices, shown before you buy, no proposals, no required retainers.
+- **Third-party tools, always explicit.** Recommended and installed tools are made by other companies. We don't sell software. Subscriptions belong to the client at the tools' normal public prices.
+- **No commission or affiliate claims in either direction.** No affiliate deals currently; the door stays open, so nothing is printed that would need scrubbing later.
+- **No invented proof.** Testimonial components are built but hidden until real client results exist.
+- **Approved public-figure quotes only, verbatim:** Sundar Pichai (Google I/O 2024) on the homepage; Yann LeCun (Newsweek) reserved for `/we-fix-it-for-you`. No photos of any public figure. Small print on any page carrying a quote: public statements, not endorsements.
+- **Income disclaimer** in the footer of any page referencing dollars, savings, or ROI.
+- **Contact form replies within one business day.**
+- Form flow: validate → Cloudflare Turnstile → server-side forward to GHL inbound webhook. No embedded GHL iframe forms, ever.
+
+**Design direction (2026-08-11):** dark-dominant. Ground `#16181D`, electric blue `#2D7FF9` for actions only, cyan `#5EE1FF` reserved strictly for "running on its own" signal states. Archivo display / Inter body / IBM Plex Mono for all numbers and utility labels. The gate circuit motif is the signature structural element. Full spec in brand/design-tokens.md.
+
+## THE QUIZ (built, live)
+
+12 questions at `/save-time`, one per screen, mobile-first, no nav and no footer links anywhere in the flow. Email gate before results. Client-side arithmetic — no AI, no API cost, nothing that can hallucinate.
+
+**Locked mechanics:**
+- Question and answer text is locked. Every answer tier stays, including the low honest ones. It is a measurement instrument.
+- Scoring: midpoints × recoverability per category, summed.
+- **Q9 (head-locked knowledge) contributes no hours.** It sets an owner-dependency flag only. The question asks about proportion, not duration; assigning it an hour invents a number. This was removed, restored in error, and removed again — leave it removed.
+- Range display is ±1, clamped to floor 3 and ceiling 15 at both ends.
+- **The lowest possible score is 3.05**, so the floor never fires and the sub-floor copy path is unreachable by score alone.
+- Dollar math: hours × Q3 hourly value × 4.33, rounded to nearest $100.
+- Q10 and Q11 are stored, not scored. The magic-wand answer is deliberately withheld from the free screen and saved for email sequences and the report.
+- The number renders even if the webhook POST fails. Visitors are never trapped behind a failed request.
+- Quiz leads post to a separate GHL webhook from contact-form leads.
+- **Paywall is behind a build-time flag, currently off.** No offer shows until the report pipeline can fulfill. **No guarantee suppression logic** — every visitor sees the offer when the flag is on, which is why the guarantee is 3 hours.
+
 ## STANDING RULES
 
-- The avatar does NO homework at any rung below the white-glove tier — the machine or TJ does the work.
-- Measurement integrity beats persuasion tricks — any tactic that corrupts the quiz math is rejected on sight.
-- ChatGPT-or-simpler language in all customer-facing copy; never mention Cowork, skills, APIs, or automation jargon.
+- The avatar does NO homework at any rung below the white-glove tier. The machine or TJ does the work.
+- Measurement integrity beats persuasion tricks. Any tactic that corrupts the quiz math is rejected on sight.
+- ChatGPT-or-simpler language in all customer-facing copy. Never mention Cowork, skills, APIs, or automation jargon.
 - Three levers frame all benefit copy: make money, save time, raise quality.
-- Business-safe emotional temperature: the legitimate negative note is "competitors pulling ahead while I bury my head in the sand" — never shame language.
+- Business-safe emotional temperature: the legitimate negative note is "competitors pulling ahead while I bury my head in the sand." Never shame language.
+- **"Computer programmer," never "software engineer."** Plainer for the avatar.
+- **"You type your passwords, we tell you what to click."** This governs site and funnel both. The funnel-copy-brief's competing rule ("we drive every click") is superseded — correct it when the funnel is built.
+- Copy is governed by brand/tj-voice.md and brand/anti-ai-writing-patterns.md. Design is governed by brand/design-tokens.md.
+
+## THE REPORT PIPELINE (not built — next major workstream)
+
+Build order: tool catalog → assessment skill → report template → n8n delivery. The catalog blocks everything downstream.
+
+**Three contradictions to resolve in the assessment skill, not in the catalog:**
+
+1. **Tool count.** The catalog rules govern: 2-4 tools total, exactly one per pain point, never "Tool A or Tool B." A menu makes the owner freeze. Earlier docs saying "1-2 per category" are wrong.
+2. **The quick-start plan.** A "10 minutes a day" promise collides with catalog setup times — the best tools (SaneBox, Fathom) run 15 minutes, and many run 45. Either loosen the promise to about 15 minutes a day, or structure the plan so day one carries the longest setup. Do not filter down to only sub-10-minute tools; that prescribes weak tools.
+3. **Claimed hours.** Cap each tool's claimed hours at its category's actual contribution to the diagnosis, using the low end of every range. A report claiming more hours back than the quiz found destroys the measurement.
+
+The report must identify at least what the guarantee promises. At 3 hours and a quiz floor of 3.05, this holds by construction.
 
 ## WHAT WE CAN CREDIBLY DELIVER (founder capabilities)
 
-- Fully unattended AI pipelines: media/data in → transcription → AI processing → templated rendering → automated delivery (two running daily in production)
-- Marketing automation architecture: n8n workflows with security-first defaults, Go High Level (CRM, email, payments, funnels), cross-platform integration
+- Fully unattended AI pipelines: media/data in → transcription → AI processing → templated rendering → automated delivery (running daily in production)
+- Marketing automation architecture: n8n with security-first defaults, GoHighLevel, cross-platform integration
 - AI systems with governance: hallucination QA, vetted-catalog constraints, cost controls, eval loops
 - Hardened server administration (VPS, non-root installs, firewall, fail2ban, 2FA)
 - Direct-response marketing: offers, funnels, sales pages, email campaigns, ICP development
-- AI tool prescription
-- AI Agents (Hermes, Claude, ChatGPT)
-- Custom GPTs
-- **Approved shared context** — canonical Markdown in this repository, backed by private Git history and indexed by the existing local Gbrain installation
+- AI tool prescription, AI agents, custom GPTs
+
+**TJ:** computer programmer for 15 years, 8 years in direct response marketing, 25 years building software and automation. New Jersey. Running today in his own operation and one client's business: an assistant that organizes his inbox and drafts email in his voice, social media that generates and posts itself, an agent that watches competitors, and video edited end to end with no human editor. **The client is never named on public-facing material.**
 
 ## TOOL STACK
 
-- **Go High Level** — payments, order forms, email delivery, CRM, funnel pages
+- **Stripe** — payments and checkout
+- **GoHighLevel** — CRM, email, inbound webhooks, booking
 - **n8n** — automation backbone
 - **Claude** — report generation and AI processing
-- **Hermes agents on TJ's personal VPS** — agent workloads for this business. They retrieve approved shared context from the existing local Gbrain installation.
+- **Cloudflare** — Workers hosting, Turnstile, DNS
+- **GA4 + Meta Pixel** — analytics and retargeting audiences; quiz CTA clicks and form submissions tracked as events
+- **Codex** — coding agent for the site repo (AGENTS.md is the operating file; CLAUDE.md points to it)
