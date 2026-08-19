@@ -11,8 +11,6 @@ An AI consulting and automation services business for small business owners. We 
 
 The model is adapted from Corey Ganim's AI assessment business (paid assessment → tool prescriptions → implementation upsells → recurring consulting), with one structural difference: Corey acquired clients through warm, in-person networking; we acquire customers through cold internet traffic, so the front door is a free measurement rather than a consultation.
 
-**Positioning note (2026-08-18):** Corey's public site, returnmytime.com, now markets knowledge bases and managed AI agents sold off a discovery call, screening for companies up to $50M in revenue, with a pre-booking questionnaire that treats "mainly looking for AI education, prompts, or software recommendations" as a low-readiness answer. **He has not abandoned the assessment model** — per TJ's direct knowledge he still runs it; the website simply no longer reflects it, and those clients come through warm and audience channels rather than the site. The practical read: his public marketing does not compete for cold traffic in our segment, and owners who find him and don't fit his site's offer have nowhere obvious to land.
-
 ## WHO WE SERVE
 
 Small business owners: 2-20 employees, $500K-$5M/year revenue, working 40-60 hrs/week, too deep in the weeds to learn AI, using nothing beyond occasionally prompting ChatGPT. Top pains: email overload, repetitive admin, meetings and follow-up, writing tasks, answering the same customer questions repeatedly, processes locked in the owner's head.
